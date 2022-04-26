@@ -1,6 +1,6 @@
 # Cronograma de Estudos
 
-###  Boocamp Carrefour
+###  Bootcamp Carrefour
 
 Módulo 1 - **Concluído**
 Módulo 2 - Pendente
